@@ -10,9 +10,7 @@
         <v-row>
           <v-col cols="12" sm="4">
             <v-card-text class="white--text pt-2">
-              <v-btn icon>
-                <v-icon color="#A7121D"> fas fa-dragon </v-icon>
-              </v-btn>
+              <v-btn icon> </v-btn>
             </v-card-text>
           </v-col>
           <v-col cols="12" sm="4">

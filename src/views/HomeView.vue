@@ -129,7 +129,7 @@
             class="pa-2 py-12"
             outlined
             tile
-            height="280px"
+            height="290px"
             color="#eceff1"
             elevation="3"
           >
@@ -143,7 +143,7 @@
             class="pa-2 py-12"
             outlined
             tile
-            height="280px"
+            height="290px"
             color="#eceff1"
             elevation="3"
           >
